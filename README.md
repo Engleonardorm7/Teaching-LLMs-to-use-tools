@@ -41,3 +41,8 @@ No additional installations are required as the project files are Jupyter Notebo
    ```bash
    git clone https://github.com/Engleonardorm7/Teaching-LLMs-to-use-tools
    cd Teaching-LLMs-to-use-tools
+
+## Also Available on GitLab
+
+This repository is also available on GitLab. You can find the GitLab repository at the following link:
+[Teaching LLMs to Use Tools - on GitLab](https://gitlab.com/Engleonardorm7/Teaching-LLMs-to-use-tools)
